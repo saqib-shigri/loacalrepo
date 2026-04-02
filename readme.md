@@ -1,1 +1,1 @@
-# this is wat i am learning th use of the git and github
+# this is what i am learning the use of the git and github
